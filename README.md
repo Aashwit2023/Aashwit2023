@@ -22,12 +22,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aashwitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aashwitgupta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aashwitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashwitgupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aashwitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashwit-gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/@aashwit_vaish_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@aashwit_vaish_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/@aashwitgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@aashwitgupta" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@aashwitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aashwitgupta" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aashwitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aashwitgupta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/@aashwitgupta_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@aashwitgupta_23" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<aashwit89cy>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<aashwit89cy>" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aashwit89cy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<aashwit89cy>" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
