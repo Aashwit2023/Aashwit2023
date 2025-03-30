@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aashwit Gupta</h1>
 <h3 align="center">A passionate DSA(C++) and Web developer</h3>
+<h4>I am pursuing my degree from KIET group of institution</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashwit2023&label=Profile%20views&color=0e75b6&style=flat" alt="aashwit2023" /> </p>
 
